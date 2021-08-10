@@ -1,11 +1,12 @@
-# discBot
-you need the following npm pakages :
-    "discord-buttons": "^4.0.0",
-    "discord.js": "^12.5.3",
-    "dotenv": "^10.0.0",
-    "got": "^11.8.2",
-    "jsdom": "^16.7.0",
-    "nodemon": "^2.0.12",
-    "request": "^2.88.2",
-    "selenium-webdriver": "^4.0.0-beta.4",
-    "sharp": "^0.28.3"
+# discBot</br>
+this is a <i><b><u>discord account creator</u></b></i> and a <i><b><u>probot daily reward collector</u></b></i> that sends the captchas to a discord server to be solved by the users
+<h2>you need the following npm pakages :</h2></br>
+<code>npm install discord-buttons</code></br>
+<code>npm install discord.js</code></br>
+<code>npm install dotenv</code></br>
+<code>npm install got</code></br>
+<code>npm install jsdom</code></br>
+<code>npm install nodemon</code></br>
+<code>npm install request</code></br>
+<code>npm install selenium-webdriver</code></br>
+<code>npm install sharp</code></br>
